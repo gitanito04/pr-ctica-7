@@ -8,3 +8,14 @@ p.md{
     font-weight: bold;
 }
 
+ul.plato{
+    list-style-type: circle;
+}
+
+ol.roman{
+    list-style-type: upper-roman;
+}
+
+ol.segplato{
+    list-style-type: lower-latin;
+}
